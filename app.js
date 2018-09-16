@@ -1,0 +1,1 @@
+const getData = () => console.log("test");
